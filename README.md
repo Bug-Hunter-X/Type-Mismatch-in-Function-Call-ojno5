@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatch in function calls. The bug.ts file contains a function `add` that expects two numbers as arguments.  However, a string is passed as the second argument during a function call, leading to a type error. The bugSolution.ts file shows how to fix this by ensuring type safety.
